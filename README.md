@@ -20,7 +20,7 @@ I'm excited about collaborating on open-source projects and exploring new opport
 
 - :email: Email: andrei.chernov.jr@gmail.com
 - :briefcase: LinkedIn: [Andrei Chernov Jr](https://www.linkedin.com/in/andrei-chernov-jr/)
-- telegram: [messenger](http://t.me/@onelovesport)
+- telegram: [@onelovesport](http://t.me/@onelovesport)
 
 ### Let's Connect and Make Data Magic! :rocket:
 
