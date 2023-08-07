@@ -4,7 +4,7 @@ Welcome to my GitHub profile! :octocat:
 
 ### About Me
 
-I am a passionate data enthusiast with a background in international trading of goods. Recently, I embarked on an exciting journey to transition my career to the fascinating field of Data Science and Data Analysis.
+I am a passionate data enthusiast with a background in international trading of goods. A while ago I embarked on an exciting journey to transition my career to the fascinating field of Data Science and Data Analysis.
 
 - 👀 I’m interested in various aspects of Data Science, including Machine Learning, Data Visualization, and Natural Language Processing.
 - 🌱 I've successfully completed a comprehensive Data Science professional training course from Yandex, where I gained hands-on experience in solving real-world problems with data.
