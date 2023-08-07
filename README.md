@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Andrei Chernov, a Career Changer in Data Science!
+## 👋 Hi, I’m Andrei Chernov, a Data Science Enthusiast on an evolving career journey!
 
 Welcome to my GitHub profile! :octocat:
 
